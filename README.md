@@ -1,2 +1,3 @@
 # Site php
- primeiro site que fiz usando banco de dados junto
+ primeiro site php que fiz usando MySql junto
+ 
