@@ -1,0 +1,15 @@
+Xampp Baixado
+Incializar as opções do Apache e MySQL
+Apos fazer isso você chama no seu navegador 'localhost/phpmyadmin'
+Você clicar em 'novo' vai fazer um 'cadastro'depois vai em 'criar'
+Apos fazer isso ele vai pedir o nome da tabela e o número de colunas com cinco campos
+Você vai clicar em 'executar'
+Ai vai criar a possibilidade de vc colocar os nomes sendo eles, identificador (id), nome (nome), email (email), senha(senha), Data de Nascimento (data_nasc)
+(Id) = INT Atributos = UNSIGNED, A_I (PRIMARY)
+(name) = VARCHAR 45
+(email) = VARCHAR 255
+(senha) = VARCHAR 255
+(data_nasc) = DATE 
+
+salva e está pronto para ser utilizado
+
